@@ -1,4 +1,6 @@
-# PoeltlSolver
+# PoeltlSolver 🏀
+![image](https://github.com/user-attachments/assets/0b3fb937-250c-4eb5-b38c-f550f9a1cd0e)
+
 
 PoeltlSolver is an interactive browser extension designed for NBA enthusiasts who love to engage in player-guessing games. Whether you're playing solo or challenging friends, PoeltlSolver leverages real-time NBA data to provide accurate and exciting player suggestions based on your guesses. With a sleek React frontend and a robust Flask backend, this project offers a seamless and engaging user experience.
 
