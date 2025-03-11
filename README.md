@@ -1,4 +1,4 @@
-# PoeltlSolver 🏀
+# PoeltlSolver
 ![image](https://github.com/user-attachments/assets/0b3fb937-250c-4eb5-b38c-f550f9a1cd0e)
 
 
